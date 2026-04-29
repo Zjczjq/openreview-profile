@@ -1,6 +1,6 @@
 # Haoming Cui
 
-I am a student graduated from Beijing University of Technology, and at The University of Hong Kong.
+I am a student graduated from Beijing University of Technology, and studying at The University of Hong Kong.
 
 Email: michael19981002@gmail.com
 
