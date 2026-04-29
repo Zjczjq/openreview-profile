@@ -1,10 +1,10 @@
 # Haoming Cui
 
-I am a student at The University of Hong Kong.
+I am a student graduated from Beijing University of Technology, and at The University of Hong Kong.
 
 Email: michael19981002@gmail.com
 
 Email: 1211313250@qq.com
 
 
-Research interests: Embodied AI, AI Agents, Multimodal Agents
+Research interests: Robotics, Machine Learning, Robot Learning, Intelligent Systems, Autonomous Systems
