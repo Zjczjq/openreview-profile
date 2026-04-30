@@ -1,5 +1,6 @@
 # Haoming Cui
 
+I amcurrent an independent researcher in CASIA
 I am a student graduated from Beijing University of Technology, and studying at The University of Hong Kong.
 
 Affiliation: The University of Hong Kong / Beijing University of Technology
